@@ -16,6 +16,7 @@
 
 *   Sorting fairness metrics table rows to keep slices in order with slice drop
     down in the UI.
+*   Add Flip Count metrics for Counterfactual Fairness evaluation.
 
 ## Bug fixes and other changes
 
